@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 langchain
 langchain_community
 langchain_huggingface
@@ -7,14 +6,4 @@ pypdf
 huggingface_hub
 streamlit
 sentence-transformers
-=======
-langchain
-langchain_community
-langchain_huggingface
-faiss-cpu
-pypdf
-huggingface_hub
-streamlit
-sentence-transformers
->>>>>>> bb06ee5c0351d690b4ec66065ae87c3dd8a351f7
 python-dotenv
