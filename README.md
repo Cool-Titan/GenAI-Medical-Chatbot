@@ -1,16 +1,14 @@
 # 🩺 GenAI Medical Chatbot
 
-The *GenAI Medical Chatbot* is an AI-powered conversational assistant designed to provide personalized medical information, symptom-based guidance, and healthcare support. Built using **Generative AI** and **Retrieval-Augmented Generation (RAG)**, this chatbot leverages large language models (LLMs) to deliver accurate and context-aware responses for patients, healthcare professionals, and researchers. Deployed at `https://medical-chatbot-ll84.onrender.com/`, this project aims to enhance health literacy and streamline access to medical advice.
+The *GenAI Medical Chatbot* is an AI-powered conversational assistant designed to provide personalized medical information, symptom-based guidance, and healthcare support. Built using **Generative AI** and **Retrieval-Augmented Generation (RAG)**, this chatbot leverages large language models (LLMs) to deliver accurate and context-aware responses for patients, healthcare professionals, and researchers.This project aims to enhance health literacy and streamline access to medical advice.
 
 ---
 
 ## 📸 Preview
 
-*Placeholder for screenshots or visualizations (to be added later):*
 - Chat Interface
-- Symptom Checker Workflow
-- Medical Query Response Example
-- User Dashboard
+
+![Chat_Interface](sample.png)
 
 ---
 
